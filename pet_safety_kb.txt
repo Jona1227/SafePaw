@@ -1,0 +1,623 @@
+PET SAFETY KNOWLEDGE BASE
+Each entry describes one food, plant, or household item and how it affects common pets.
+If a pet has been exposed and is showing symptoms, contact a veterinarian or the ASPCA Animal Poison Control Center (888-426-4435) right away.
+
+==========
+
+Item: Chocolate
+Category: Food
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Theobromine and caffeine; dark and baking chocolate are the most dangerous
+Symptoms: Vomiting, diarrhea, restlessness, rapid heartbeat, tremors, seizures
+What to do: Contact a vet or animal poison control right away; note the type and amount eaten
+
+==========
+
+Item: Grapes and Raisins
+Category: Food
+Pets affected: Dogs (high), cats (possible)
+Toxicity: High
+Toxic component: Tartaric acid is the suspected cause; even small amounts can be dangerous
+Symptoms: Vomiting, lethargy, loss of appetite, decreased urination, kidney failure
+What to do: Contact a vet right away, even if no symptoms are showing yet
+
+==========
+
+Item: Xylitol (sugar-free gum, candy, some peanut butters)
+Category: Food
+Pets affected: Dogs (high)
+Toxicity: High
+Toxic component: Xylitol causes a rapid insulin release in dogs
+Symptoms: Vomiting, weakness, staggering, seizures, low blood sugar, liver failure
+What to do: Contact a vet immediately; check product labels for xylitol or "birch sugar"
+
+==========
+
+Item: Onions and Garlic
+Category: Food
+Pets affected: Cats (high), dogs (moderate to high)
+Toxicity: High
+Toxic component: Compounds that damage red blood cells; raw, cooked, and powdered forms are all toxic
+Symptoms: Weakness, pale gums, vomiting, rapid breathing, anemia (may appear days later)
+What to do: Contact a vet; keep onion- and garlic-seasoned foods away from pets
+
+==========
+
+Item: Macadamia Nuts
+Category: Food
+Pets affected: Dogs (moderate)
+Toxicity: Moderate
+Toxic component: Unknown
+Symptoms: Weakness (especially back legs), vomiting, tremors, fever
+What to do: Contact a vet; symptoms usually appear within 12 hours
+
+==========
+
+Item: Alcohol
+Category: Food
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Ethanol (also found in raw bread dough)
+Symptoms: Vomiting, disorientation, difficulty breathing, low body temperature, coma
+What to do: Contact a vet or animal poison control right away
+
+==========
+
+Item: Caffeine (coffee, tea, energy drinks)
+Category: Food
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Methylxanthines
+Symptoms: Restlessness, rapid breathing, heart palpitations, tremors, seizures
+What to do: Contact a vet or animal poison control right away
+
+==========
+
+Item: Lilies (true lilies and daylilies)
+Category: Plant
+Pets affected: Cats (severe), dogs (mild)
+Toxicity: High
+Toxic component: Unknown; all parts are toxic to cats, including pollen and vase water
+Symptoms: Vomiting, lethargy, loss of appetite, kidney failure in cats
+What to do: For cats, contact a vet immediately, even after small exposures
+
+==========
+
+Item: Sago Palm
+Category: Plant
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Cycasin; seeds are the most toxic part
+Symptoms: Vomiting, bloody stool, bruising, liver failure
+What to do: Contact a vet immediately
+
+==========
+
+Item: Oleander
+Category: Plant
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Cardiac glycosides
+Symptoms: Drooling, vomiting, abnormal heart rhythm, tremors, collapse
+What to do: Contact a vet immediately
+
+==========
+
+Item: Azalea and Rhododendron
+Category: Plant
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Grayanotoxins
+Symptoms: Vomiting, diarrhea, drooling, weakness, abnormal heart rhythm
+What to do: Contact a vet immediately
+
+==========
+
+Item: Tulips
+Category: Plant
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate
+Toxic component: Tulipalin; bulbs contain the highest concentration
+Symptoms: Vomiting, diarrhea, drooling
+What to do: Contact a vet, especially if bulbs were eaten
+
+==========
+
+Item: Pothos (Devil's Ivy)
+Category: Plant
+Pets affected: Dogs (mild to moderate), cats (mild to moderate)
+Toxicity: Moderate
+Toxic component: Insoluble calcium oxalate crystals
+Symptoms: Mouth irritation, drooling, pawing at mouth, vomiting, difficulty swallowing
+What to do: Rinse the pet's mouth with water and contact a vet if symptoms continue
+
+==========
+
+Item: Aloe Vera
+Category: Plant
+Pets affected: Dogs (mild to moderate), cats (mild to moderate)
+Toxicity: Moderate
+Toxic component: Saponins and anthraquinones
+Symptoms: Vomiting, diarrhea, lethargy
+What to do: Contact a vet if symptoms appear
+
+==========
+
+Item: Spider Plant
+Category: Plant
+Pets affected: None (non-toxic to dogs and cats)
+Toxicity: None
+Toxic component: None
+Symptoms: Possible mild stomach upset if a large amount is eaten
+What to do: No treatment usually needed; monitor your pet
+
+==========
+
+Item: Boston Fern
+Category: Plant
+Pets affected: None (non-toxic to dogs and cats)
+Toxicity: None
+Toxic component: None
+Symptoms: Possible mild stomach upset if a large amount is eaten
+What to do: No treatment usually needed; monitor your pet
+
+==========
+
+Item: Ibuprofen and Naproxen (NSAIDs)
+Category: Household (medication)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Nonsteroidal anti-inflammatory drugs
+Symptoms: Vomiting, bloody stool, stomach ulcers, kidney failure
+What to do: Contact a vet immediately; never give human pain medication to pets
+
+==========
+
+Item: Acetaminophen (Tylenol)
+Category: Household (medication)
+Pets affected: Cats (severe), dogs (high)
+Toxicity: High
+Toxic component: Acetaminophen; cats cannot break it down safely
+Symptoms: Brown or gray gums, difficulty breathing, facial swelling, liver damage
+What to do: Contact a vet immediately; a single tablet can be fatal to a cat
+
+==========
+
+Item: Antifreeze (ethylene glycol)
+Category: Household (chemical)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Ethylene glycol; it tastes sweet, which attracts pets
+Symptoms: Staggering, vomiting, excessive thirst, seizures, kidney failure
+What to do: Contact a vet immediately; treatment works best within hours
+
+==========
+
+Item: Rodent Poison (rodenticides)
+Category: Household (chemical)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Varies by product (anticoagulants, bromethalin, cholecalciferol)
+Symptoms: Bleeding, bruising, weakness, tremors, seizures (depends on the type)
+What to do: Contact a vet immediately and bring the product packaging
+
+==========
+
+Item: Dog Flea and Tick Products (permethrin) on Cats
+Category: Household (medication)
+Pets affected: Cats (severe)
+Toxicity: High
+Toxic component: Permethrin, found in many dog-only spot-on treatments
+Symptoms: Tremors, twitching, seizures, drooling
+What to do: Contact a vet immediately; never use dog flea products on cats
+
+==========
+
+Item: Vitamin D (supplements, some psoriasis creams)
+Category: Household (medication)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Vitamin D (cholecalciferol) and related drugs like calcipotriene, which raise blood calcium
+Symptoms: Vomiting, loss of appetite, excessive thirst and urination, weakness, kidney failure
+What to do: Contact a vet immediately; signs can take a day or more to appear
+
+==========
+
+Item: Iron Supplements (including prenatal vitamins)
+Category: Household (medication)
+Pets affected: Dogs (moderate to high), cats (moderate to high)
+Toxicity: Moderate to High
+Toxic component: Elemental iron
+Symptoms: Vomiting (sometimes with blood), diarrhea, lethargy, abdominal pain, liver damage
+What to do: Contact a vet right away and bring the bottle so the iron amount can be checked
+
+==========
+
+Item: ADHD Medications (amphetamines, methylphenidate)
+Category: Household (medication)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Stimulants
+Symptoms: Hyperactivity, rapid heartbeat, panting, tremors, high body temperature, seizures
+What to do: Contact a vet immediately
+
+==========
+
+Item: Antidepressants (SSRIs, SNRIs)
+Category: Household (medication)
+Pets affected: Dogs (moderate to high), cats (moderate to high)
+Toxicity: Moderate to High
+Toxic component: Antidepressant drugs; some cats are attracted to venlafaxine capsules
+Symptoms: Sleepiness or agitation, vomiting, wobbliness, tremors, rapid heartbeat, seizures
+What to do: Contact a vet right away
+
+==========
+
+Item: Sleep Aids (zolpidem, benzodiazepines)
+Category: Household (medication)
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate
+Toxic component: Sedative drugs
+Symptoms: Heavy sleepiness, wobbliness, or the opposite effect of agitation and hyperactivity
+What to do: Contact a vet
+
+==========
+
+Item: Cold and Allergy Decongestants (pseudoephedrine, phenylephrine)
+Category: Household (medication)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Decongestants; often found in "D" versions of allergy medications
+Symptoms: Agitation, rapid heartbeat, high blood pressure, high body temperature, tremors, seizures
+What to do: Contact a vet immediately; check the label for a decongestant ingredient
+
+==========
+
+Item: Antihistamines (diphenhydramine, loratadine, cetirizine)
+Category: Household (medication)
+Pets affected: Dogs (low to moderate), cats (low to moderate)
+Toxicity: Low to Moderate
+Toxic component: Antihistamines; risk rises with large amounts or combination products that include a decongestant
+Symptoms: Sleepiness or hyperactivity, rapid heartbeat, dry mouth, vomiting
+What to do: Contact a vet, especially if a large amount or a combination product was eaten
+
+==========
+
+Item: Flavored Pet Medications (chewable tablets)
+Category: Household (medication)
+Pets affected: Dogs (varies), cats (varies)
+Toxicity: Varies
+Toxic component: Overdose of the pet's own medication; flavored chews may lead pets to eat a whole bottle
+Symptoms: Depends on the drug; can include vomiting, diarrhea, stomach ulcers, or kidney or liver damage
+What to do: Contact a vet and bring the medication bottle; store pet meds out of reach
+
+==========
+
+Item: Prescription Skin Creams (fluorouracil, calcipotriene)
+Category: Household (medication)
+Pets affected: Dogs (severe), cats (severe)
+Toxicity: High
+Toxic component: Fluorouracil (5-FU) and calcipotriene; even a small amount licked from a tube can be serious
+Symptoms: Vomiting, tremors, seizures (fluorouracil); high calcium and kidney failure (calcipotriene)
+What to do: Contact a vet immediately
+
+==========
+
+Item: Kratom
+Category: Household (recreational drug)
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate
+Toxic component: Mitragynine and related compounds
+Symptoms: Vomiting, sleepiness or agitation, wobbliness, tremors
+What to do: Contact a vet
+
+==========
+
+Item: Marijuana and THC Edibles
+Category: Household (recreational drug)
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate
+Toxic component: THC; edibles may also contain chocolate or xylitol
+Symptoms: Wobbliness, dribbling urine, lethargy, sensitivity to sound and touch, slow heartbeat
+What to do: Contact a vet; tell them honestly what was eaten so they can treat it correctly
+
+==========
+
+Item: Wild Mushrooms
+Category: Plant
+Pets affected: Dogs (high), cats (high)
+Toxicity: High (varies by species)
+Toxic component: Varies; some species, such as Amanita, contain toxins that destroy the liver
+Symptoms: Vomiting, diarrhea, drooling, wobbliness, tremors, seizures, liver failure (may be delayed)
+What to do: Contact a vet immediately; bring a photo or sample of the mushroom if possible
+
+==========
+
+Item: Nicotine (cigarettes, vapes, nicotine gum and patches)
+Category: Household (chemical)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Nicotine; some nicotine gum also contains xylitol
+Symptoms: Vomiting, drooling, agitation, rapid heartbeat, tremors, seizures
+What to do: Contact a vet immediately
+
+==========
+
+Item: Avocado
+Category: Food
+Pets affected: Birds, rabbits, horses, goats and sheep (high); dogs and cats (mild)
+Toxicity: Low for dogs and cats; High for birds, rabbits and livestock
+Toxic component: Persin; the pit is also a choking and blockage risk
+Symptoms: Dogs and cats: mild vomiting or diarrhea. Birds and rabbits: breathing problems, heart damage
+What to do: For dogs and cats, monitor and contact a vet if symptoms appear or the pit was swallowed; for birds and rabbits, contact a vet immediately
+
+==========
+
+Item: Salt and Salty Snacks (including homemade play dough)
+Category: Food
+Pets affected: Dogs (moderate to high), cats (moderate to high)
+Toxicity: Moderate to High
+Toxic component: Sodium; large amounts cause sodium ion poisoning
+Symptoms: Vomiting, diarrhea, excessive thirst and urination, tremors, seizures
+What to do: Contact a vet
+
+==========
+
+Item: Milk and Dairy
+Category: Food
+Pets affected: Dogs (low), cats (low)
+Toxicity: Low
+Toxic component: Lactose; most adult pets cannot digest it well
+Symptoms: Diarrhea, gas, stomach upset
+What to do: Usually no treatment needed; contact a vet if diarrhea is severe or lasts
+
+==========
+
+Item: Raw Yeast Dough
+Category: Food
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Yeast, which expands in the stomach and produces alcohol
+Symptoms: Bloated stomach, retching without vomiting, wobbliness, lethargy
+What to do: Contact a vet immediately
+
+==========
+
+Item: Citrus (stems, leaves, peels, seeds)
+Category: Food
+Pets affected: Dogs (low to moderate), cats (low to moderate)
+Toxicity: Low to Moderate
+Toxic component: Citric acid and essential oils, mostly in the plant parts and peel rather than the fruit
+Symptoms: Vomiting, diarrhea, skin irritation; large amounts can cause depression of the nervous system
+What to do: Contact a vet if a large amount was eaten or symptoms appear
+
+==========
+
+Item: Cooked Bones
+Category: Food
+Pets affected: Dogs (moderate to high), cats (moderate to high)
+Toxicity: Not toxic, but a physical hazard
+Toxic component: None; cooked bones can splinter
+Symptoms: Choking, gagging, vomiting, constipation, bloody stool, signs of a blocked or punctured gut
+What to do: Contact a vet if your pet shows any of these signs after eating a bone
+
+==========
+
+Item: Nutmeg
+Category: Food
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate
+Toxic component: Myristicin; small amounts in baked goods are unlikely to cause problems
+Symptoms: Disorientation, rapid heartbeat, high blood pressure, stomach pain, seizures (large amounts)
+What to do: Contact a vet if a large amount was eaten
+
+==========
+
+Item: Chives and Leeks
+Category: Food
+Pets affected: Cats (high), dogs (moderate to high)
+Toxicity: High
+Toxic component: The same red-blood-cell-damaging compounds found in onions and garlic
+Symptoms: Weakness, pale gums, vomiting, rapid breathing, anemia (may appear days later)
+What to do: Contact a vet
+
+==========
+
+Item: Poinsettia
+Category: Plant
+Pets affected: Dogs (mild), cats (mild)
+Toxicity: Low
+Toxic component: Irritating milky sap; its danger is often overstated
+Symptoms: Drooling, licking lips, vomiting, diarrhea, skin irritation from the sap
+What to do: Usually no treatment needed; contact a vet if symptoms are severe or last
+
+==========
+
+Item: Mistletoe
+Category: Plant
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate (European mistletoe is more toxic than American)
+Toxic component: Toxic proteins and other compounds
+Symptoms: Vomiting, diarrhea, drooling; large amounts can cause slow heart rate and low blood pressure
+What to do: Contact a vet
+
+==========
+
+Item: Holly
+Category: Plant
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate
+Toxic component: Saponins; the spiny leaves can also injure the mouth
+Symptoms: Vomiting, diarrhea, drooling, lip smacking, head shaking
+What to do: Contact a vet if symptoms continue
+
+==========
+
+Item: Snake Plant
+Category: Plant
+Pets affected: Dogs (mild), cats (mild)
+Toxicity: Low
+Toxic component: Saponins
+Symptoms: Vomiting, diarrhea, drooling
+What to do: Contact a vet if symptoms continue
+
+==========
+
+Item: Monstera (Swiss Cheese Plant)
+Category: Plant
+Pets affected: Dogs (mild to moderate), cats (mild to moderate)
+Toxicity: Moderate
+Toxic component: Insoluble calcium oxalate crystals
+Symptoms: Mouth irritation, drooling, pawing at mouth, vomiting, difficulty swallowing
+What to do: Rinse the pet's mouth with water and contact a vet if symptoms continue
+
+==========
+
+Item: Philodendron
+Category: Plant
+Pets affected: Dogs (mild to moderate), cats (mild to moderate)
+Toxicity: Moderate
+Toxic component: Insoluble calcium oxalate crystals
+Symptoms: Mouth irritation, drooling, pawing at mouth, vomiting, difficulty swallowing
+What to do: Rinse the pet's mouth with water and contact a vet if symptoms continue
+
+==========
+
+Item: Peace Lily
+Category: Plant
+Pets affected: Dogs (mild to moderate), cats (mild to moderate)
+Toxicity: Moderate
+Toxic component: Insoluble calcium oxalate crystals; it is not a true lily and does not cause kidney failure in cats
+Symptoms: Mouth irritation, drooling, pawing at mouth, vomiting, difficulty swallowing
+What to do: Rinse the pet's mouth with water and contact a vet if symptoms continue
+
+==========
+
+Item: Daffodils
+Category: Plant
+Pets affected: Dogs (moderate to high), cats (moderate to high)
+Toxicity: Moderate to High
+Toxic component: Lycorine and other alkaloids; bulbs are the most toxic part
+Symptoms: Vomiting, diarrhea, drooling; large amounts can cause abnormal heart rhythm and low blood pressure
+What to do: Contact a vet, especially if bulbs were eaten
+
+==========
+
+Item: Hydrangea
+Category: Plant
+Pets affected: Dogs (mild to moderate), cats (mild to moderate)
+Toxicity: Moderate
+Toxic component: Cyanogenic glycosides
+Symptoms: Vomiting, diarrhea, lethargy
+What to do: Contact a vet if symptoms appear
+
+==========
+
+Item: Foxglove
+Category: Plant
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Cardiac glycosides
+Symptoms: Vomiting, drooling, abnormal heart rhythm, weakness, collapse
+What to do: Contact a vet immediately
+
+==========
+
+Item: Autumn Crocus
+Category: Plant
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Colchicine
+Symptoms: Bloody vomiting, diarrhea, shock, organ damage, bone marrow suppression (may be delayed)
+What to do: Contact a vet immediately
+
+==========
+
+Item: Jade Plant
+Category: Plant
+Pets affected: Dogs (mild to moderate), cats (mild to moderate)
+Toxicity: Moderate
+Toxic component: Unknown
+Symptoms: Vomiting, lethargy, wobbliness
+What to do: Contact a vet if symptoms appear
+
+==========
+
+Item: African Violet
+Category: Plant
+Pets affected: None (non-toxic to dogs and cats)
+Toxicity: None
+Toxic component: None
+Symptoms: Possible mild stomach upset if a large amount is eaten
+What to do: No treatment usually needed; monitor your pet
+
+==========
+
+Item: Calathea (Prayer Plant)
+Category: Plant
+Pets affected: None (non-toxic to dogs and cats)
+Toxicity: None
+Toxic component: None
+Symptoms: Possible mild stomach upset if a large amount is eaten
+What to do: No treatment usually needed; monitor your pet
+
+==========
+
+Item: Bleach
+Category: Household (chemical)
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate (higher for concentrated products)
+Toxic component: Sodium hypochlorite
+Symptoms: Drooling, vomiting, mouth irritation, coughing from fumes, burns with concentrated bleach
+What to do: Contact a vet; do not try to make your pet vomit
+
+==========
+
+Item: Essential Oils (tea tree, wintergreen, pennyroyal, and others)
+Category: Household (chemical)
+Pets affected: Cats (high), dogs (moderate to high)
+Toxicity: High
+Toxic component: Concentrated plant oils; cats are especially sensitive
+Symptoms: Drooling, vomiting, wobbliness, tremors, weakness, liver damage
+What to do: Contact a vet; do not apply essential oils to pets without veterinary advice
+
+==========
+
+Item: Slug and Snail Bait (metaldehyde)
+Category: Household (chemical)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Metaldehyde
+Symptoms: Anxiety, tremors, seizures, very high body temperature
+What to do: Contact a vet immediately and bring the product packaging
+
+==========
+
+Item: Garden Fertilizer
+Category: Household (chemical)
+Pets affected: Dogs (mild to moderate), cats (mild to moderate)
+Toxicity: Low to Moderate
+Toxic component: Varies; some products contain bone meal, iron, or added insecticides
+Symptoms: Vomiting, diarrhea, drooling; some products can cause blockages or more severe poisoning
+What to do: Contact a vet and bring the product packaging
+
+==========
+
+Item: Batteries (alkaline and button batteries)
+Category: Household (chemical)
+Pets affected: Dogs (high), cats (high)
+Toxicity: High
+Toxic component: Corrosive chemicals; button batteries can burn tissue if swallowed
+Symptoms: Drooling, mouth pain, vomiting, refusing food, difficulty swallowing
+What to do: Contact a vet immediately; do not try to make your pet vomit
+
+==========
+
+Item: Ice Melt
+Category: Household (chemical)
+Pets affected: Dogs (moderate), cats (moderate)
+Toxicity: Moderate
+Toxic component: Salts such as sodium chloride, calcium chloride, or magnesium chloride
+Symptoms: Vomiting, diarrhea, excessive thirst, paw irritation; large amounts can cause salt poisoning
+What to do: Wipe your pet's paws after walks and contact a vet if symptoms appear
